@@ -1,4 +1,1 @@
 name: Artur Kraft's Jekyll website
-url: http://ak90.co/
-baseurl: http://ak90.co/
-include: ["/assets/css/", "/assets/js/", "/assets/images/", "/assets/fonts/"]
